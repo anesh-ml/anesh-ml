@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anesh
-- 👀 I’m interested in providing business solutions using data science
-- 🌱 I’m currently pursuing MS Data science at University at Buffalo.
+- 👋 Hi, I’m @anesh muthiah
+- 👀 I have over 5 years of experience in data science
+- 🌱 I graduated from University at Buffalo with MS in Data Science. I worked as a teaching assistant, research assistant at my university
 
 
 <!---
